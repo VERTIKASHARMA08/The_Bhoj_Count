@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "316082412472",
+    "project_id": "the-bhoj-count-6e541",
+    "storage_bucket": "the-bhoj-count-6e541.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:316082412472:android:09b431b91bee4cef0d8d4d",
+        "android_client_info": {
+          "package_name": "com.example.thebhojcount"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCEzFa1Xc220k-J50vOKjKzmYQtkOTEiYc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
